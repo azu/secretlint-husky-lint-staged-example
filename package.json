@@ -10,7 +10,6 @@
   "author": "azu",
   "license": "MIT",
   "devDependencies": {
-    "@secretlint/secretlint-rule-github": "^2.2.0",
     "@secretlint/secretlint-rule-preset-recommend": "^2.2.0",
     "husky": "^6.0.0",
     "lint-staged": "^11.0.0",
